@@ -1,6 +1,6 @@
 # Test-Driven Development Meets AI
 
-![The workflow diagram](./diagram.jpg)
+![The workflow diagram](./the_flow.jpg)
 
 1. [The Story Writing Agent](./tdd_story_writing.md)
 2. [The Unit Testing Agent](./tdd_unit_testing.md)
