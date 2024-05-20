@@ -1,6 +1,6 @@
 # Test-Driven Development Meets AI
 
-![The workflow diagram](./diagram.png)
+![The workflow diagram](./diagram.jpg)
 
 1. [The Story Writing Agent](./tdd_story_writing.md)
 2. [The Unit Testing Agent](./tdd_unit_testing.md)
@@ -23,4 +23,4 @@ This flow takes a different approach. Typically, each conversation involves a si
 
 Additionally, defining a laser-focused role for each agent helps the LLM identify the most relevant dataset to draw from. This not only improves the accuracy of the responses, but also allows the use of more lightweight models, like Claude Haiku, which can reduce costs by at least 12 times compared to larger models (based on the Claude pricing table).
 
-![Claude pricing](./claude_pricing.png)
+![Claude pricing](./claude_pricing.jpg)
